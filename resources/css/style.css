@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Titillium Web", "Arial", sans-serif;
+  font-size: 22px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+}
+/* ------------------------------- */
+/* NAV */
+/* ------------------------------- */
+nav {
+  width: 100%;
+}
+
+/* ------------------------------- */
+/* HEADER */
+/* ------------------------------- */
+
+/* ------------------------------- */
+/* REUSABLES */
+/* ------------------------------- */
+section {
+  padding: 80px 0px;
+}
+.row {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 250%;
+  font-weight: 400;
+}
+h2 {
+  font-size: 200%;
+  font-weight: 300;
+}
+/* ------------------------------- */
+/* MAIN */
+/* ------------------------------- */
